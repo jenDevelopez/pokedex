@@ -1,0 +1,16 @@
+.pokeballButton{
+  border:none;
+  cursor: pointer;
+  outline: none;
+  display: flex;
+  align-items: center;
+  background: none;
+  padding: 50px 50px 0 50px;
+  
+}
+
+.pokeballImg {
+  width: 25px;
+  height: 25px;
+  margin-right:  5px;
+}
